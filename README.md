@@ -94,7 +94,8 @@ int main() {
 OUTPUT:
 
 
-![377362847-7cd461bc-72a2-413b-bc37-2415b47a04ba](https://github.com/user-attachments/assets/ee8136fc-da1c-4dae-988d-268ecf24914c)
+[<img width="405" alt="cd-01" src="https://github.com/user-attachments/assets/cfcedeb5-d61c-45bf-9b51-5299cd27f5c5">]
+
 
 RESULT:
 
