@@ -4,8 +4,6 @@ IMPLEMENTATION OF SYMBOL TABLE
 
 Register Number :212222230091
 
-Date :24/09/24
-
 AIM:
 
 To write a C program to implement a symbol table.
